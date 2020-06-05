@@ -52,8 +52,17 @@ footer {
     font-size: 2em;
 }
 
+#about {
+    color: azure;
+}
+
 section h2 {
     font-size: 2em;
+    color: azure;
+}
+
+#best {
+    color: azure;
 }
 
 section h3 {
@@ -64,20 +73,24 @@ section h3 {
     font-size: 1,5em;
 }
 
+#why {
+    color: azure;
+}
+
 header a {
     text-decoration: none;
-    color: black;
+    color: rgb(0, 0, 0);
 }
 
 /* Add everything below here */
 
 #about {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/v1555357621/shape/mentalfloss/northernlights.jpg?itok=zVLQZP-3');
+    background-image: url('https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/v1555357621/shape/mentalfloss/northernlights.jpg?itok=zVLQZP-3');
 }
 
 #best {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://cdn.images.express.co.uk/img/dynamic/25/590x/secondary/The-best-places-to-see-Northern-Lights-688671.jpg');
+    background-image: url('https://wallpapers.net/web/wallpapers/northern-lights-hd-wallpaper/thumbnail/lg.jpg');
 }
 
 #why {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://www.thislifeintrips.com/wp-content/uploads/2018/08/aurora-borealis-2647474_1280-770x514.jpg');
+    background-image: url('https://www.desktopbackground.org/download/1920x1080/2013/06/01/585347_best-northern-lights-hd-wallpapers_2048x1925_h.jpg');
